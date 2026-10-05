@@ -1,0 +1,10 @@
+# Build output
+*.o
+mysh
+
+# Backing store created at runtime
+my_backing_store/
+backing_store/
+
+# OS
+.DS_Store
